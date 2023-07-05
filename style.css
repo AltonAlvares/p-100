@@ -1,0 +1,39 @@
+.copy_right_footer{
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    background-color: white;
+}
+body{
+    background-color: whitesmoke
+}
+h1{
+    background-color: black;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h4{
+    color: red;
+    font-style: oblique;
+}
+#camera{
+    height: 400px;
+    width:500px;
+    border-radius: 20%;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+img{
+    height: 200px;
+    width: 400px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    border-radius: 20%;
+}
+img:hover{
+    height:230px;
+    width: 430px;
+}
